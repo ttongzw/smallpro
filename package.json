@@ -1,0 +1,24 @@
+{
+  "name": "smallpro",
+  "version": "1.0.0",
+  "description": "for weixin small project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttongzw/smallpro.git"
+  },
+  "author": "tongzw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttongzw/smallpro/issues"
+  },
+  "homepage": "https://github.com/ttongzw/smallpro#readme",
+  "dependencies": {
+    "koa": "^2.4.1",
+    "koa-router": "^7.3.0"
+  }
+}
